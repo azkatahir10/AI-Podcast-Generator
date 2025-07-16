@@ -1,0 +1,9 @@
+openai
+elevenlabs
+python-dotenv
+pydub
+argparse
+requests
+gtts
+python-dotenv
+
