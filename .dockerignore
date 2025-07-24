@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.mp3
+*.wav
+*.txt
+.env
+outputs/
