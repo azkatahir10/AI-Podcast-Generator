@@ -1,8 +1,3 @@
----
-
-### ✅ `README.md`
-
-```markdown
 # 🎙️ AI Podcast Generator (FastAPI Version)
 
 This project generates AI-powered podcast episodes by combining:
@@ -123,4 +118,3 @@ Feel free to fork the repo, make changes, and open a pull request!
 
 MIT License © Azka Tahir
 
-```
